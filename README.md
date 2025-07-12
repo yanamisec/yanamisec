@@ -67,7 +67,7 @@
 
 ###
 
-<p align="left">• Anna Yanami<br>• Elaina<br>• Mahiru Shiina<br>• Nagisa Kubo<br>• Akane Sakuramori<br>• Sylpha Langlis<br>• Alisa Mikhailovna Kujou<br>• Maria Mikhailovna Kujou<br>• Yuki Suou</p>
+<p align="left">• Anna Yanami<br>• Elaina<br>• Mahiru Shiina<br>• Nagisa Kubo<br>• Akane Sakuramori<br>• Sylpha Langlis<br>• Alisa Mikhailovna Kujou<br>• Maria Mikhailovna Kujou<br>• Yuki Suou<br>• Hu Tao<br>• Furina de Fontaine</p>
 
 ###
 
